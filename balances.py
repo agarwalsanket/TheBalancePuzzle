@@ -1,10 +1,10 @@
 import turtle
 import os
-__author__ = "Sanket Agarwal and Krishna Tippur Gururaj"
+__author__ = "Sanket Agarwal"
 
 """
 This program is the implementation of the problem stated in HW7.
-Authors: Sanket Agarwal (sa3250@rit.edu) and Krishna Tippur Gururaj (kxt2163@rit.edu)
+Authors: Sanket Agarwal (sa3250@rit.edu)
 """
 
 
